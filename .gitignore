@@ -1,7 +1,7 @@
 # directories
-cholec_tool_classification/
-cholec-tinytools/
-runs/
+/cholec_tool_classification/
+/cholec-tinytools/
+/runs/
 
 # models
 *.pt
@@ -9,3 +9,4 @@ runs/
 # images
 *.png
 *.jpg
+*.jpeg
