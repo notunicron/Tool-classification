@@ -1,0 +1,11 @@
+# directories
+cholec_tool_classification/
+cholec-tinytools/
+runs/
+
+# models
+*.pt
+
+# images
+*.png
+*.jpg
