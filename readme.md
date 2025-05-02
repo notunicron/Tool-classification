@@ -96,6 +96,11 @@ cholec-tinytools/
     pip install ultralytics matplotlib tqdm
     ```
 
+4. **Install requirements.txt**:
+    ```bash
+    pip install -r reqirements.txt
+    ```
+
 ## Usage
 1. Copy the repository.
 2. Navigate to the project folder.
